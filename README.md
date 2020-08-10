@@ -1,3 +1,3 @@
-# Desert
+# Middle East Tour
 
-Desert is a tour spot landing page with modern design and card hover effect.
+Middle East Tour is a tour spot landing page with modern design and card hover effect.
